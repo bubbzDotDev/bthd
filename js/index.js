@@ -20,6 +20,7 @@ function discordAPI(){
             output = `${serverName} | ${onlineCount} Members Online`;
         }
         document.getElementById('discord-text').innerText = output;
+        document.getElementById('discord-box').style = "block";
         })
     })
 }
