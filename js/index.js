@@ -1,7 +1,7 @@
 function discordAPI(){
     let init = {
     method: 'GET',
-    mode: 'cors',
+    mode: 'no-cors',
     cache: 'reload'
     }
 
