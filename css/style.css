@@ -1,20 +1,25 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #2C2F33;
+    color: white;
 }
 
-#discord-text {
-    text-decoration: none;
+a {
     color: white;
+    text-decoration: none;
 }
 
 #discord img {
-    width: 320px;
+    width: 45px;
+    vertical-align: middle;
 }
 
-#discord-box {
-    background-color: #7289DA;
-    width: 310px;
-    color: white;
-    padding: 5px;
+#discord {
+    font-weight: bold;
+    text-align: center;
+    border: 3px dashed #23272A;
     border-radius: 5px;
+    width: 330px;
+    padding: 5px;
+    margin: 0 auto;
 }
