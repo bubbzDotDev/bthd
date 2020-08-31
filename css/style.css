@@ -30,10 +30,17 @@ a {
     padding: 5px;
     position: relative;
     top: -90px;
+    font-weight: bold;
 }
 
 #header-title {
-    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 10px;
+}
+
+#header-subtitle {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
 }
 
 #discord img {
@@ -52,3 +59,14 @@ a {
     margin: 10px auto;
     box-shadow: 10px 10px 10px black;
 }
+
+
+
+
+
+
+/* @media (min-width: 701px) {
+    #something {
+        display: flex;
+    }
+} */
