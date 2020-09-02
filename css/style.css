@@ -96,8 +96,7 @@ body {
 .shading {
     box-shadow: 10px 10px 10px black;
     background-color: #23272A;
-    border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px;
+    border-radius: 5px;
     padding-bottom: 10px;
 }
 
