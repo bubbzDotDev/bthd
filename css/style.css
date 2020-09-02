@@ -5,9 +5,9 @@ body {
     margin: 0px;
 }
 
-body * {
+/* body * {
     border: 1px solid purple;
-}
+} */
 
 #header {
     background-color: black;
