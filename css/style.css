@@ -5,9 +5,9 @@ body {
     margin: 0px;
 }
 
-/* body * {
+body * {
     border: 1px solid purple;
-} */
+}
 
 #header {
     background-color: black;
@@ -146,4 +146,8 @@ body {
 
 .spacer {
     padding-top: 15px;
+}
+
+.nopadding {
+    padding: 0px;
 }
