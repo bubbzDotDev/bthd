@@ -5,9 +5,9 @@ body {
     margin: 0px;
 }
 
-body * {
-    /* border: 1px solid purple; */
-}
+/* body * {
+    border: 1px solid purple;
+} */
 
 #header {
     background-color: black;
@@ -88,7 +88,7 @@ body * {
 #small-container {
     text-align: center;
     margin: 20px auto;
-    width: 370px;
+    width: 90%;
 }
 
 .shading {
