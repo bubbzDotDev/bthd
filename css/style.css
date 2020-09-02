@@ -52,7 +52,7 @@ body {
     font-weight: bold;
     text-align: center;
     border-radius: 5px;
-    width: 330px;
+    width: 315px;
     box-shadow: 10px 10px 10px black;
     padding: 5px;
     margin: auto;
@@ -87,7 +87,7 @@ body {
 
 #small-container {
     text-align: center;
-    margin: 20px auto;
+    margin: 10px auto;
     width: 90%;
 }
 
