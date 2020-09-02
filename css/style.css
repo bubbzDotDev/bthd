@@ -119,7 +119,7 @@ body {
     font-weight: bold;
     padding-top: 20px;
     float: left;
-    /* margin-bottom: 15px; */
+    font-family: 'Permanent Marker', cursive;
 }
 
 .platform-section {
@@ -151,4 +151,14 @@ body {
 
 .nopadding {
     padding: 0px;
+}
+
+footer {
+    margin: auto;
+    background-color: black;
+    text-align: center;
+}
+
+#bubeez {
+    height: 80px;
 }
