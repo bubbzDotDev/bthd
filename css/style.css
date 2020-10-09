@@ -171,6 +171,34 @@ footer {
     min-height: 100vh;
   }
   
-  #content-wrap {
+#content-wrap {
     padding-bottom: 2.5rem;
   }
+
+#leadership {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: block;
+    margin-bottom: 100px;
+    }
+
+.leaders a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.founders {
+    color: #f1c40f;
+    font-weight: bold;
+}
+
+.tls {
+    color: #9b59b6;
+    font-weight: bold;
+}
+
+.admins {
+    color: #206694;
+    font-weight: bold;
+}
