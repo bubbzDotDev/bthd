@@ -175,14 +175,6 @@ footer {
     padding-bottom: 2.5rem;
   }
 
-#leadership {
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    display: block;
-    margin-bottom: 100px;
-    }
-
 .leaders a:hover {
     text-decoration: none;
     color: white;
