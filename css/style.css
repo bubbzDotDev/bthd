@@ -199,3 +199,7 @@ footer {
     text-align: center;
     margin-top: 10px;
 }
+
+img[src*="#botm_image"] {
+    width:50%;
+ }
