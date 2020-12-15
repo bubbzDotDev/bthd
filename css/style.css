@@ -200,6 +200,9 @@ footer {
     margin-top: 10px;
 }
 
-img[src*="#botm_image"] {
-    width:50%;
- }
+#newsletter {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
