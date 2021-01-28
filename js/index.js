@@ -1,7 +1,11 @@
 function unhover(element) {
-    element.setAttribute('src', 'https://bubeez.github.io/bthd/images/discord_sm_blurple.png');
-  }
+  element.setAttribute('src', 'https://bubeez.github.io/bthd/images/discord_sm_blurple.png');
+}
   
-  function hover(element) {
-    element.setAttribute('src', 'https://bubeez.github.io/bthd/images/discord_sm.png');
-  }
+function hover(element) {
+  element.setAttribute('src', 'https://bubeez.github.io/bthd/images/discord_sm.png');
+}
+
+// function click(element) {
+//   element.
+// }
