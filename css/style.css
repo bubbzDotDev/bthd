@@ -281,3 +281,15 @@ footer {
     text-decoration: none;
     cursor: pointer;
 }
+
+.gold-box {
+    background-color: #f1c40f;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.inline {
+    display: inline-block;
+}
