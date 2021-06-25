@@ -1,1 +1,1 @@
-Repo for https://bubeez.github.io/bthd/
+Repo for bulletheads.org
