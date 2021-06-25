@@ -1,10 +1,14 @@
-function unhover(element) {
-  element.setAttribute('src', 'https://bubeez.github.io/bthd/images/discord_sm_blurple.png');
+function unhover() {
+  const img = document.getElementsByClassName('discord-hover-img');
+  Array.from(img).forEach(element => {element.setAttribute('src', 'images/discord_sm_blurple.png');});
 }
   
-function hover(element) {
-  element.setAttribute('src', 'https://bubeez.github.io/bthd/images/discord_sm.png');
+function hover() {
+  const img = document.getElementsByClassName('discord-hover-img');
+  Array.from(img).forEach(element => {element.setAttribute('src', 'images/discord_sm.png');});
 }
+
+// onmouseover="hover(this)" onmouseout="unhover(this)"
 
 function modal(year) {
   if (year === 2020) {
